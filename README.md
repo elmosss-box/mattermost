@@ -101,8 +101,10 @@ Configuraciones realizadas:
   ```
 - 👥 Registro abierto habilitado
 
-📷 `image_161ca3 - Configuración URL`
-📷 `image_161507 - Configuración Registro`
+<img width="741" height="466" alt="image" src="https://github.com/user-attachments/assets/3b252632-b70e-4f33-a6bd-417f53b90774" />
+
+<img width="714" height="623" alt="image" src="https://github.com/user-attachments/assets/385ac9f3-675d-4c41-ba99-b901eda6a6af" />
+
 
 ---
 
@@ -118,8 +120,10 @@ Activar:
 
 > "Permitir que cualquier usuario con cuenta se una a este equipo"
 
-📷 `image_1609dc - Ajustes equipo`  
-📷 `image_160986 - Usuario uniéndose`
+<img width="808" height="677" alt="image" src="https://github.com/user-attachments/assets/1cd52164-e90e-48a0-9b46-1bef39a113de" />
+
+<img width="1278" height="826" alt="image" src="https://github.com/user-attachments/assets/50dfcc7e-e0c9-4903-9a99-29fa65d3e466" />
+
 
 ---
 
@@ -135,8 +139,10 @@ Prueba entre:
 | mossab | alumno2 | "¿Recibes este mensaje?" | ✅ Recibido |
 | alumno2 | mossab | Confirmación en incógnito | ✅ Enviado |
 
-📷 `image_160622 - Vista Admin`  
-📷 `image_1605fa - Vista Alumno2`
+<img width="909" height="915" alt="image" src="https://github.com/user-attachments/assets/9cd387df-dc88-4b20-add0-b95dba422fbc" />
+
+<img width="862" height="825" alt="image" src="https://github.com/user-attachments/assets/10e0bf02-0a73-4f2a-bce3-f3e624fdbe3b" />
+
 
 ---
 
