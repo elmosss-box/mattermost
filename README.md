@@ -52,7 +52,8 @@ mattermost/mattermost-preview
 sudo docker run --name mattermost-server -d --publish 8065:8065 mattermost/mattermost-preview
 ```
 
-📷 **Captura:** `image_168d64 - Descarga de la imagen en terminal`
+<img width="816" height="514" alt="image" src="https://github.com/user-attachments/assets/29bbc696-5cfb-4dc7-af22-f57359a49649" />
+
 
 ---
 
@@ -71,7 +72,8 @@ services:
     restart: always
 ```
 
-📷 **Captura:** `image_15997d - Archivo en nano`
+<img width="537" height="214" alt="image" src="https://github.com/user-attachments/assets/e3c1eaaa-36ce-4a65-b868-8e47b0240997" />
+
 
 #### ❓ ¿Por qué el puerto 8065?
 
